@@ -1,2 +1,3 @@
 # datasciencecoursera
-Repo set for project course.
+Repo set for course project
+
